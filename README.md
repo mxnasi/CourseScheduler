@@ -1,0 +1,1 @@
+This application is an interactive Java GUI application where I designed a course scheduler. Students can schedule a course for a semester, and professors can see what students have signed up for various classes. 
